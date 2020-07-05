@@ -429,5 +429,4 @@ public class SkeletonLayout extends FrameLayout {
         Resources r = c.getResources();
         return Math.round(TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, dp, r.getDisplayMetrics()));
     }
-
 }
