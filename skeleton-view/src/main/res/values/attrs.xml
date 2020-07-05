@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SkeletonLayout">
+        <attr name="skeleton_color" format="color|reference"/>
+        <attr name="skeleton_animation_duration" format="integer|reference"/>
+        <attr name="skeleton_auto_start" format="boolean|reference"/>
+        <attr name="skeleton_angle" format="integer|reference"/>
+        <attr name="skeleton_mask_width" format="float|reference"/>
+        <attr name="skeleton_gradient_center_color_width" format="float|reference"/>
+        <attr name="skeleton_reverse_animation" format="boolean|reference"/>
+    </declare-styleable>
+</resources>
