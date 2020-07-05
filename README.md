@@ -1,5 +1,5 @@
 # Installation
-Add it in your root build.gradle at the end of repositories:
+Step 1. Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
 		repositories {
@@ -7,7 +7,7 @@ Add it in your root build.gradle at the end of repositories:
 		}
 	}
  
-Add the dependency
+Step 2. Add the dependency
 
 	dependencies {
 	        implementation 'com.github.mowlashuvo:skeleton-view:Tag'
